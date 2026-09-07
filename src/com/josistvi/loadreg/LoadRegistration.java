@@ -1,3 +1,5 @@
+package com.josistvi.loadreg;
+
 import java.util.Scanner;
 
 public class LoadRegistration {
